@@ -1,0 +1,21 @@
+.tablero {
+  background-color: black;
+  color: deeppink;
+  text-shadow: 2px 1px 13px pink;
+  height: 100vh;
+}
+.tablero h1 {
+  font-size: 3rem;
+}
+
+.Container {
+  border: solid 2px magenta;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.Container th {
+  border: solid 1px pink;
+  display: flex;
+  flex-direction: column;
+}
