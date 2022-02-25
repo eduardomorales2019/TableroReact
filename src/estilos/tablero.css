@@ -1,25 +1,10 @@
 .tablero {
   background-color: black;
-  color: deeppink;
+
   text-shadow: 2px 1px 13px pink;
   height: 50vh;
-  box-shadow: 1px 2px 2px 10px magenta;
+
   width: 90vw;
   margin: 0 auto;
-  border-radius: 20px;
-}
-.tablero h1 {
-  font-size: 3rem;
-}
-
-.Container {
-  border: solid 2px magenta;
-  width: 50%;
-  margin: 0 auto;
-}
-
-.Container th {
-  border: solid 1px pink;
-  display: flex;
-  flex-direction: column;
+  margin-top: 200px;
 }

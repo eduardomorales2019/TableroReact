@@ -1,3 +1,9 @@
-.aquilavariable {
-  background-color: aquamarine;
+.Cell {
+  height: 50px;
+  width: 50px;
+  background-color: orange;
+}
+
+.Cell-lit {
+  background-color: aqua;
 }
